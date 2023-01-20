@@ -2,4 +2,4 @@
 
 # Desafio de projeto: 
 
-Personalizar Dashboard e Trocar as Preferências de Idioma no Google Cloud Plataform
+Personalizar dashboard e trocar as preferências de idioma no Google Cloud Plataform
